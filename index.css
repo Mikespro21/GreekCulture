@@ -1,0 +1,137 @@
+p{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: black;
+    text-align: left;
+    line-height: 150%;
+    letter-spacing: 3px;
+    margin-top: 125px;
+    margin-bottom: 125px;
+   
+}
+h2{
+    font-size: 75px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    line-height: 100%;
+    letter-spacing: 6px;
+    margin-top: 175px;
+    margin-bottom: 175px;
+
+}
+h1{
+    font-size: 120px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    color:  rgb(255, 111, 0);
+    text-align: center;
+    line-height: 350%;
+    letter-spacing: 9px;
+    margin: 0 auto;
+    padding: 2px;
+    background-image: url("https://image.lexica.art/full_webp/417a1bb7-197b-46d7-9fbd-bc00715f0afa");
+    border: 5px solid lightcoral;
+    image-rendering: crisp-edges;
+    background-position: center center;
+    margin-bottom: 175px;
+
+}
+a{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: black;
+    text-align: left;
+    line-height: 150%;
+    letter-spacing: 3px;
+    margin: 10px;
+
+}
+ul{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: black;
+    text-align: left;
+    line-height: 150%;
+    letter-spacing: 3px;
+    margin: 10px;
+
+}
+ol{
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+    color: lightblue;
+    text-align: left;
+    line-height: 150%;
+    letter-spacing: 3px;
+    margin: 30px;
+
+}
+li{
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    line-height: 150%;
+    letter-spacing: 3px;
+    margin: 30px;
+  
+}
+body{
+    background-image: url("https://tse3.mm.bing.net/th/id/OIP.390aEmM9ov0Fmgp3Fj-XfAHaDt?rs=1&pid=ImgDetMain&o=7&rm=3");
+}
+.Conclusion{
+    text-align: center;
+}
+.hl{
+    font-size: 75px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+    color: lightblue;
+    text-align: left;
+    line-height: 150%;
+    letter-spacing: 3px;
+    margin-top: 175px;
+    margin-bottom: 175px;
+  
+}
+.Index{
+    font-size: 90px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    line-height: 100%;
+    letter-spacing: 6px;
+    margin: 0 auto;
+    text-align: center;
+}
+.Quote{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: grey;
+    text-align: left;
+    line-height: 150%;
+    letter-spacing: 1px;
+    margin-top: 125px;
+    margin-bottom: 125px;
+    font-style: italic;
+
+}
+.lists ul {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 200px; /* Adjust as needed to control row breaks */
+  list-style: none; /* Optional: remove default list styling */
+  padding: 0;
+  margin: 0;
+  overflow: scroll;
+}
